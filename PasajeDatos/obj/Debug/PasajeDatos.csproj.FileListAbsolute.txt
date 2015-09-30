@@ -1,0 +1,4 @@
+c:\users\ziero-n03\documents\visual studio 2010\Projects\PasajeDatos\PasajeDatos\bin\PasajeDatos.dll
+c:\users\ziero-n03\documents\visual studio 2010\Projects\PasajeDatos\PasajeDatos\bin\PasajeDatos.pdb
+c:\users\ziero-n03\documents\visual studio 2010\Projects\PasajeDatos\PasajeDatos\obj\Debug\PasajeDatos.dll
+c:\users\ziero-n03\documents\visual studio 2010\Projects\PasajeDatos\PasajeDatos\obj\Debug\PasajeDatos.pdb
